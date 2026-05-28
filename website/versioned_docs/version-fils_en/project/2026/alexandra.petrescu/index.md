@@ -4,8 +4,7 @@ This project is a smart security system built on the Raspberry Pi Pico 2W by usi
 :::info 
 
 **Author**: Petrescu Alexandra-Maria \
-**GitHub Project Link**: https://github.com/UPB-PMRust-Students/fils-project-2026-alexandra.petrescu
-
+**GitHub Project Link**: https://github.com/UPB-PMRust-Students/fils-project-2026-alexteap
 :::
 
 <!-- do not delete the \ after your name -->
